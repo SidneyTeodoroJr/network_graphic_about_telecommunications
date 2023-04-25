@@ -1,2 +1,3 @@
 # network_graphic_about_telecommunications
- The Python script creates a graphical network dashboard to represent a fictional telecommunications network. The graph is created using the go.Scatter() function to represent the edges and nodes of the graph, while the histogram of weights is created using the go.Histogram() function.
+
+In this project, we create a fictitious network with five nodes representing websites, each with a numerical value representing the number of unique visitors. The five edges connecting the nodes represent connections between sites. This allows the network to be visualized graphically, showing the relationship between the sites and their respective visitor numbers.
